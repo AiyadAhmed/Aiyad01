@@ -27,6 +27,8 @@ public class Aiyad_GitHub_02 {
 			System.out.println("Age: "+age);
 			System.out.println("Mobile Number: "+mobileNo);
 			System.out.println("CGPA: "+cgpa);
+		
+			System.out.println("updated Code");
 			
 		} //main
 	
