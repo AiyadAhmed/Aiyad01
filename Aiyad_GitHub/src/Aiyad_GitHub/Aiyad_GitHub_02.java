@@ -29,6 +29,7 @@ public class Aiyad_GitHub_02 {
 			System.out.println("CGPA: "+cgpa);
 		
 			System.out.println("updated Codes 1");
+		System.out.println("updated Codes 2");
 			
 		} //main
 	
